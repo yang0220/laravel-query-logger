@@ -1,0 +1,13 @@
+{
+    "name": "yang0220/laravel-query-logger",
+    "description": "log",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "yang0220",
+            "email": "1522866027@qq.com"
+        }
+    ],
+    "require": {}
+}
